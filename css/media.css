@@ -1,0 +1,17 @@
+@media all and (max-width: 1024px) {
+  .contacts__tab-name, .contacts__name {
+    width: 33.3333%;
+  }
+  .contacts__tab-email, .contacts__email {
+    width: 33.3333%;
+  }
+  .contacts__tab-phone, .contacts__phone {
+    width: 33.3333%;
+  }
+  .contacts__tab-status, .contacts__status {
+    width: 16.6667%;
+  }
+  .contacts__tab-address, .contacts__address {
+    display: none;
+  }
+}
